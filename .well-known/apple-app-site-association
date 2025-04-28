@@ -1,0 +1,11 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "FPK6WLN49S.com.serving.people.Seerly",
+          "paths": ["/plaid-callback/*"]
+        }
+      ]
+    }
+  }
