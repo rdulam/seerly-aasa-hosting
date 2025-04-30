@@ -4,7 +4,7 @@
       "details": [
         {
           "appID": "FPK6WLN49S.com.serving.people.Seerly",
-          "paths": ["/plaid-callback/*"]
+          "paths": ["/seerly-aasa-hosting/plaid-callback/*"]
         }
       ]
     }
