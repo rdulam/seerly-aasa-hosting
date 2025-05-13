@@ -3,8 +3,12 @@
       "apps": [],
       "details": [
         {
-          "appID": "FPK6WLN49S.com.serving.people.Seerly",
-          "paths": ["/seerly-aasa-hosting/plaid-callback*"]
+          "appIDs": ["FPK6WLN49S.com.serving.people.Seerly"],
+          "components": [
+            {
+              "/": "/seerly-aasa-hosting/plaid-callback*"
+            }
+          ]
         }
       ]
     }
